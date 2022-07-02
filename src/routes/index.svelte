@@ -36,11 +36,11 @@
 		<div class="container  row--  landing-main__bio">
 			<div class="container  stretch--" />
 			<div>
-				Trav here, a huge Degen influenced by
+				Trav here, a Community Manager and huge Degen influenced by
 				<a href="https://twitter.com/lefrst" target="_blank"> @lefrost </a>
 				and
 				<a href="https://twitter.com/cdercer" target="_blank"> @crsy </a>
-				and Community Manager based in ur mom's room.
+				and based in ur mom's room.
 			</div>
 		</div>
 
